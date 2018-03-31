@@ -1,5 +1,4 @@
 # -*- coding:utf-8 -*-
-
 import os
 from time import sleep
 clear = 'clear'  # OS依存のクリアコマンド(Linux:clear, Windows:cls)
